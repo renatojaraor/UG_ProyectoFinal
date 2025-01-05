@@ -3,3 +3,4 @@ matplotlib
 pandas
 plotly
 scikit_learn
+kaleido
