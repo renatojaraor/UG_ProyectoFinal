@@ -1,0 +1,6 @@
+fpdf==1.7.2
+matplotlib==3.7.1
+pandas==2.0.2
+plotly==5.24.1
+scikit_learn==1.6.0
+streamlit==1.25.0
